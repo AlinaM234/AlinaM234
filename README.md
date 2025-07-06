@@ -1,5 +1,5 @@
 <div id="header" align="center"
-    <h1>Hello, I'm Alina 👋</h1>
+    <h1> Hello, I'm Alina 👋 </h1>
 </div>
 
 Обо мне:
@@ -30,7 +30,7 @@
 
 
 ---
-<h1>Языки и инструменты:</h1>
+## Языки и инструменты:
 `Python`, `SQL`, `Tableau`, `Numpy`, `Matplotlib`, `Seaborn`, `Pandas`, `ClickHouse`, `Scipy`, `Jupyter Notebook`, `Redash`
 
 
