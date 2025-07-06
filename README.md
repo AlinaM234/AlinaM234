@@ -1,5 +1,5 @@
 <div id="header" align="center"
-  <h1>Hello, I'm Alina 👋</h1>
+    <h1>Hello, I'm Alina 👋</h1>
 </div>
 
 Обо мне:
@@ -16,15 +16,15 @@
     </tr>
     <tr>
         <td> <a href="https://github.com/AlinaM234/-retention/blob/main/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0%20retention.ipynb">Создание функции для подсчета retention пользователей игры </a> </td>
-        <td>Python</td>
+        <td>pandas, seaborn, matplotlib, numpy</td>
     </tr>
     <tr>
         <td><a href="https://github.com/AlinaM234/Sample-size-MDE/blob/main/Sample%20size%20MDE.ipynb">Определение минимального обнаруживаемого эффекта</a> </td>
-        <td>Python</td>
+        <td>pandahouse, pandas, tqdm, seaborn, numpy, scipy</td>
     </tr>
     <tr>
         <td><a href="https://github.com/AlinaM234/AB-test/blob/main/AB%20test.ipynb">Проведение A/B теста</a></td>
-        <td>Python</td>
+        <td>pandas, seaborn, matplotlib, numpy, scipy, pandahouse</td>
     </tr>
 </table>
 
