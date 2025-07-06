@@ -15,7 +15,7 @@
         <td>Стек</td>
     </tr>
     <tr>
-        <td> <a href="https://github.com/AlinaM234/-retention/blob/main/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0%20retention.ipynb">Создание функции для подсчета retention пользователей игры </a> </td>
+        <td> <a href="https://github.com/AlinaM234/Retention/blob/main/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0%20retention.ipynb">Создание функции для подсчета retention пользователей игры </a> </td>
         <td>pandas, seaborn, matplotlib, numpy</td>
     </tr>
     <tr>
