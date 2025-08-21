@@ -8,7 +8,7 @@
 
 Сейчас активно развиваюсь и совершенствую навыки владения стеком.
 <a href="https://t.me/Alina_M002">
-  <img src="https://simpleicons.org/?q=telegram&modal=icon" width="600" height="200" width="600">
+  <img src="https://icons8.ru/icons/set/telegram" width="600" height="200" width="600">
 </a>
 
 https://simpleicons.org/?q=telegram&modal=icon
