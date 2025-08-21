@@ -17,7 +17,7 @@
         <td>Стек</td>
     </tr>
     <tr>
-        <td> <a href="https://github.com/AlinaM234/Retention/blob/main/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0%20retention.ipynb">Создание функции для подсчета retention пользователей игры </a> </td>
+        <td> <a href="https://github.com/AlinaM234/Retention">Создание функции для подсчета retention пользователей игры </a> </td>
         <td>Написание функции для подсчета Retention игроков</td>
         <td>pandas, seaborn, matplotlib, numpy</td>
     </tr>
@@ -27,7 +27,7 @@
         <td>pandahouse, pandas, tqdm, seaborn, numpy, scipy</td>
     </tr>
     <tr>
-        <td><a href="[https://github.com/AlinaM234/AB-test/blob/main/AB%20test.ipynb](https://github.com/AlinaM234/AB-test/tree/main)">Проведение A/B теста</a></td>
+        <td><a href="https://github.com/AlinaM234/AB-test/tree/main">Проведение A/B теста</a></td>
         <td>Проведение A/B-тестирования рекомендательной системы</td>
         <td>pandas, seaborn, matplotlib, numpy, scipy, pandahouse</td>
     </tr>
