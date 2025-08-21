@@ -8,10 +8,12 @@
 
 Сейчас активно развиваюсь и совершенствую навыки владения стеком.
 <a href="https://t.me/Alina_M002">
-  <img src="https://icons8.ru/icons/set/telegram" width="600" height="200" width="600">
+   <td>Telegram</td>
+</a>
+<a href="mailto:alina.m.0021505@gmail.com">
+   <td>Почта</td>
 </a>
 
-https://simpleicons.org/?q=telegram&modal=icon
 
 Мои проекты 👇🏻
 
