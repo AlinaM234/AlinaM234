@@ -8,14 +8,12 @@
 
 Сейчас активно развиваюсь и совершенствую навыки владения стеком.
 
-Мои контакты:
+Мои контакты:<br>
 <a href="https://t.me/Alina_M002">Telegram</a> </td>
-
 <a href="mailto:alina.m.0021505@gmail.com">Почта</a> </td>
 
-
-Мои проекты 👇🏻
-
+---
+## Мои проекты 👇🏻
 
 <table>
     <tr>
@@ -44,7 +42,7 @@
 ---
 ## Языки и инструменты:
 `Python`, `SQL`, `Tableau`, `Numpy`, `Matplotlib`, `Seaborn`, `Pandas`, `ClickHouse`, `Scipy`, `Jupyter Notebook`, `Redash`
-
+<img src="https://www.flaticon.com/ru/free-icon/python_5968350?term=%D1%8F%D0%B7%D1%8B%D0%BA+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&page=1&position=3&origin=tag&related_id=5968350" width="300" height="200">
 
 <!--
 **AlinaM234/AlinaM234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
