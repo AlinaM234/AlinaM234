@@ -22,7 +22,7 @@
         <td>pandas, seaborn, matplotlib, numpy</td>
     </tr>
     <tr>
-        <td><a href="[https://github.com/AlinaM234/Sample-size-MDE/blob/main/Sample%20size%20MDE.ipynb](https://github.com/AlinaM234/Sample-size-MDE/tree/main)">Определение минимального обнаруживаемого эффекта</a> </td>
+        <td><a href="https://github.com/AlinaM234/Sample-size-MDE/tree/main">Определение минимального обнаруживаемого эффекта</a> </td>
         <td>Анализ возможности проведения A/B-тестирования алгоритма рекомендаций</td>
         <td>pandahouse, pandas, tqdm, seaborn, numpy, scipy</td>
     </tr>
